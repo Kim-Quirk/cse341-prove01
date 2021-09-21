@@ -1,0 +1,24 @@
+{
+    "name": "cse341-node",
+    "version": "1.0.0",
+    "description": "CSE341 Class",
+    "main": "app.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "nodemon app.js",
+      "prove01": "nodemon prove01.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Kim-Quirk/cse341-node.git"
+    },
+    "author": "Kim Black",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Kim-Quirk/cse341-node/issues"
+    },
+    "homepage": "https://github.com/Kim-Quirk/cse341-node#readme",
+    "devDependencies": {
+      "nodemon": "^2.0.12"
+    }
+  }
